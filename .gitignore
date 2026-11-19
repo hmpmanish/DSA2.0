@@ -1,0 +1,15 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Output reports
+sorting_analysis_report.txt
+
+# OS / Editor files
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+Thumbs.db
